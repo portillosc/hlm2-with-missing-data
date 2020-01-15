@@ -7,3 +7,8 @@
 ### Quickstart
 1. Click the arrow on the green "Clone or download" button on the top of this page
 2. Select "Download ZIP"
+3. Unzip the folder and open the file "hlm_refactor_2.Rproj" - it should automatically open R-studio
+4. Within R-studio, navigate to the "Files" tab in the bottom right window
+5. Open server.R
+6. In the server.R window, click the "Run App" button in the top left corner.
+6.5. After running the app, there will be many intermediate files produced. Do not be alarmed, these are necessary for the application to run. These files are overwritten every run, so there is no concern of consuming too much memory. You may delete these intermediate files after you complete your work with this application.
