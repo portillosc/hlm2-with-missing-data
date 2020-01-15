@@ -15,9 +15,6 @@
 ```
 install.packages('shiny')
 ```
-```
-install.packages('foreign')
-```
 
 7. In the server.R window, click the "Run App" button in the top left corner.
 
