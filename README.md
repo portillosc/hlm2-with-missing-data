@@ -13,10 +13,10 @@
 6. If you are unsure whether the R packages "shiny" and "foreign" are updated, continue reading this step. Navigate to the "Console" tab on the bottom left window of the app, click to the right of the ">"  and see a blinking "|", then enter the following commands:
 
 ```
-library('shiny')
+install.packages('shiny')
 ```
 ```
-library('foreign')
+install.packages('foreign')
 ```
 
 7. In the server.R window, click the "Run App" button in the top left corner.
